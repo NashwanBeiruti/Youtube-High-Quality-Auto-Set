@@ -7,9 +7,9 @@ YouTube High Quality Auto is a Chrome extension that automatically sets YouTube 
 - Automatically sets the highest video quality for YouTube videos.
 - Lightweight and easy to use.
 
-## Installation
+## Installation 
 
-1. Download the latest release from the [releases page](https://github.com/NashwanBeiruti/youtube-high-quality-auto/releases).
+1. Download the latest release from the [releases page](https://github.com/NashwanBeiruti/Youtube-High-Quality-Auto-Set).
 2. Extract the contents of the ZIP file.
 3. Open Chrome and go to `chrome://extensions/`.
 4. Enable "Developer mode" by clicking the toggle switch in the top right corner.
@@ -32,7 +32,7 @@ If you want to modify the extension or contribute to its development, follow the
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/youtube-high-quality-auto.git
+    git clone https://github.com/NashwanBeiruti/Youtube-High-Quality-Auto-Set.git
     ```
 2. Make your changes to the files.
 3. Load the extension into Chrome as described in the installation steps.
